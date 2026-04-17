@@ -176,9 +176,3 @@ This means even if the LLM is prompted or tricked into generating a destructive 
 | `ask_store_db` | SQL generation, validation, and execution |
 | `summarize_rows` | Business-language answer generation |
 | `store.db` | SQLite database with store data |
-
----
-
-## 📄 License
-
-MIT
