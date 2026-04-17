@@ -73,7 +73,7 @@ This is the core data-retrieval tool. It handles the full SQL lifecycle:
 
 **The raw rows returned:**
 
-![SQL Response](sql_response.png)
+![SQL Response](The_Agent_Responsepng.png)
 
 The tool returns a JSON object with the query, row count, and the first 10 rows — deliberately raw and unformatted. It is **not** the job of this tool to interpret the data. That's the next tool's responsibility.
 
