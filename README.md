@@ -71,9 +71,6 @@ This is the core data-retrieval tool. It handles the full SQL lifecycle:
 
 ![SQL Query](sql_example.png)
 
-**The raw rows returned:**
-
-![SQL Response](The_Agent_Responsepng.png)
 
 ---
 
